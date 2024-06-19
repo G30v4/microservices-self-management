@@ -24,6 +24,16 @@ Directory Scheme:
 │       └── src
 ```
 
+## Microservices Implementation
+- [x] Python Microservice
+- [ ] Nodejs Microservice
+- [ ] Java Microservice
+
+## Integration with other Services
+- [ ] Docker
+- [x] Consul
+
+
 ## Technologies & Versions
 - Java **v7** + SpringBoot **v3** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 - Python **v3.11** + FastAPI **v0.111.0** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
